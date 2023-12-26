@@ -5,5 +5,14 @@
   },
   "devDependencies": {
     "vitepress": "1.0.0-rc.21"
-  }
+  },
+  "name": "test",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "author": "",
+  "license": "ISC"
 }
